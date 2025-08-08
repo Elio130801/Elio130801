@@ -1,12 +1,113 @@
-# 💫 About Me:
-Actualmente soy estudiante de la Tecnicatura en Análisis de Sistemas Informáticos, con una sólida base teórica y práctica en todas las áreas clave de la carrera, incluyendo:<br>Análisis y diseño de sistemas<br>Bases de datos relacionales (modelado, SQL, normalización)<br>Programación estructurada y orientada a objetos<br>Redes y comunicaciones<br>Seguridad informática<br>Metodologías de desarrollo de software (ágiles y tradicionales)<br>Documentación y gestión de proyectos<br><br>🚀 Habilidades técnicas<br><br>Desarrollo Web:<br>HTML avanzado<br>CSS intermedio<br>JavaScript<br>PHP<br><br>Lenguajes de programación:<br>Python<br><br>Frameworks y herramientas:<br>Django<br>Docker<br><br>Seguridad:<br>Configuración y gestión de firewalls<br><br>🎯 Objetivo<br>Seguir creciendo como desarrollador y analista, contribuyendo a proyectos que combinen innovación, eficiencia y buenas prácticas.
+<br clear="both">
 
+<h1 align="left">💫 About me (Sobre mi):</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Elio%20Suffi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elio.suffi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Elio%20Suffi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suffielio1@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+<br clear="both">
+
+<p align="left">Actualmente soy estudiante de la Tecnicatura en Análisis de Sistemas Informáticos (próximo a graduarme), con una sólida base teórica y práctica en todas las áreas clave de la carrera, incluyendo:<br>Análisis y diseño de sistemas<br>Bases de datos relacionales (modelado, SQL, normalización)<br>Programación estructurada y orientada a objetos<br>Redes y comunicaciones<br>Seguridad informática<br>Metodologías de desarrollo de software (ágiles y tradicionales)<br>Documentación y gestión de proyectos.<br><br>I am currently a student of the Computer Systems Analysis Technician (soon to graduate), with a solid theoretical and practical foundation in all key areas of the degree, including: Systems analysis and design Relational databases (modeling, SQL, normalization) Structured and object-oriented programming Networks and communications Computer security Software development methodologies (agile and traditional) Documentation and project management.</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">💻 Technical skills (Habilidades técnicas):</h2>
+
+###
+
+<br clear="both">
+
+<h3 align="left">⌨️ Programming languages (Lenguajes de programación):</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🛠️ Frameworks and tools (Frameworks y herramientas):</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🗄️ Databases (Bases de Datos):</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🌐 Socials (Redes Sociales):</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/elio-suffi-510a341a7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/elio.suffi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/elio.suffi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
+  <a href="suffielio1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVkajQ3dnZsZmx5ZHc4cHdmd3pmOGMzbHFjeWFjNm5kczBtdW50eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
+
+###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Elio130801&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Elio130801&theme=one_dark_pro&hide_border=true)<br/>
